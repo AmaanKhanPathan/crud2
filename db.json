@@ -1,0 +1,100 @@
+{
+  "employee": [
+    {
+      "firstName": "Ravi",
+      "lastName": "Niturkar",
+      "email": "ravi@gmail.com",
+      "dob": "2023-12-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Google",
+      "experience": "2.5",
+      "package": 30,
+      "id": 3
+    },
+    {
+      "firstName": "Aariz",
+      "lastName": "khan",
+      "email": "aaru@gmail.com",
+      "dob": "2023-12-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduation",
+      "company": "OSSS",
+      "experience": "2",
+      "package": 20,
+      "id": 4
+    },
+    {
+      "firstName": "Aman",
+      "lastName": "Khan",
+      "email": "ak@gmail.com",
+      "dob": "2023-12-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "OSSS",
+      "experience": "2.2",
+      "package": 12,
+      "id": 6
+    },
+    {
+      "firstName": "Rohini",
+      "lastName": "Harnale",
+      "email": "ruhi@gmail.com",
+      "dob": "2023-12-23T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "Cisco",
+      "experience": "3",
+      "package": 20,
+      "id": 7
+    },
+    {
+      "firstName": "Varsha",
+      "lastName": "Mahajan",
+      "email": "varshi@gmail.com",
+      "dob": "2023-12-12T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "OSSS",
+      "experience": "2",
+      "package": 9,
+      "id": 9
+    },
+    {
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "email": "chikoo@gmail.com",
+      "dob": "2024-01-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "Cisko",
+      "experience": "2.5",
+      "package": 20,
+      "id": 11
+    },
+    {
+      "firstName": "Saniya",
+      "lastName": "Tamboli",
+      "email": "saniya@gmail.com",
+      "dob": "2024-01-22T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "Cognizant",
+      "experience": "2.5",
+      "package": 15,
+      "id": 12
+    },
+    {
+      "firstName": "Ajay",
+      "lastName": "Kadam",
+      "email": "ajay@gmail.com",
+      "dob": "2024-01-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduation",
+      "company": "Infosys",
+      "experience": "2.5",
+      "package": 14,
+      "id": 13
+    }
+  ]
+}

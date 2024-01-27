@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  mat-toolbar{
+    padding: 20px 10px;
+  }
+
+  .head{
+    color: lightsalmon;
+    font-size: 40px;
+  }
+
+  
+.nav{
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  width: 200px;  
+}
+  
